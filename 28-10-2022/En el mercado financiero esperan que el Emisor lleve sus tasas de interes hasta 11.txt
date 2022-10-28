@@ -1,0 +1,34 @@
+En el mercado financiero esperan que el Emisor lleve sus tasas de interés hasta 11%
+
+El principal punto, la tasa de referencia, hoy en 10% podría llegar a 11% según la proyección de la mayoría de analistas del sistema financiero.
+
+Hoy se reunirá la Junta Directiva del Banco de la República con varios temas de coyuntura en su agenda ante la volatilidad económica que tiene el país. Además de decidir un nuevo ajuste en las tasas de interés, se revisará el fuerte incremento del precio del dólar que llegó a rozar los $5.000.
+El principal punto, la tasa de referencia, hoy en 10% podría llegar a 11% según la proyección de la mayoría de analistas del sistema financiero.
+Intervención directa del Emisor
+
+El Emisor cuenta con una serie de herramientas que podría utilizar para controlar el mercado cambiario y evitar que el peso colombiano siga perdiendo su valor. Una de ellas es la venta de opciones put (opciones de venta de divisas al Banco) o call (opciones de compra de divisas al Banco).
+El Banco de la República puede poner a la venta opciones put o call para el control de volatilidad de la tasa de cambio. El Emisor decide realizar venta de opciones put si busca acumular las reservas internacionales. Pero si solo se enfoca en la venta de opciones call es para el efecto contrario, la desacumulación de las reservas.
+Otra manera en la que el banco central puede intervenir en el mercado de divisas es precisamente con la compra o venta de monedas de forma directa en el mercado cambiario o por medio de subastas competitivas (con puja).
+Intervención indirecta
+
+El Banco de la República también puede realizar contratos FX Swap, en los cuales pacta simultáneamente una venta de dólares de EE.UU. de contado y una compra de dólares a futuro. Estos contratos son de cumplimiento efectivo y pueden ser ofrecidos mediante subasta o ventanilla.
+Otro mecanismo son los contratos forward de venta de dólares con cumplimiento financiero. Este instrumento financiero les permite a los participantes del mercado de dólares, protegerse ante el riesgo de fuertes incrementos futuros del dólar (depreciación del peso).
+El mecanismo consiste en que el Banco de la República vende dólares a un mes, a una tasa de cambio que resulta de una subasta. Si al cabo de ese mes, la tasa de cambio es mayor que la de la subasta, el Emisor le pagará al comprador la diferencia en pesos.
+En caso contrario, el comprador pagará al banco central la diferencia, también en pesos. De esta manera, quien tenga una deuda en dólares o deba hacer un pago en dólares, podrá garantizar el precio de los dólares que requiere y reducir la incertidumbre sobre los pagos en dólares en el futuro.
+Subir las tasas 200 puntos básicos para controlar el alza del dólar
+
+Otro mecanismo que está sonando con fuera últimamente que podría implementar la junta del BanRepública en su reunión, es subir de manera sorpresiva las tasas de interés en 200 puntos básicos hasta 12% para retener la inversión internacional.
+De acuerdo con la más reciente encuesta de expectativas de Citigroup, la gran mayoría de los analistas del mercado espera que en su reunión de este viernes el Banco de la República suba las tasas de interés en 100 puntos básicos, con lo que los tipos pasarían de 10% a 11%.
+En algunos pocos casos, como son el Banco Popular y Grupo Bancolombia, proyectan un incremento incluso más bajo, a 10,75%, mientras que Scotiabank Colpatria prevé que las tasas llegarán a 10,5%, una subida de apenas 50 básicos. La proyección más alta la tienen JPMorgan y XP Investments que prevén un incremento de 150 puntos básicos a 11,5%.
+Sin embargo, ahora se está considerando un incremento mayor, de 200 puntos básicos, para que pueda controlar el alza de la divisa estadounidense.
+Así lo explica Juan David Ballén, director de Análisis y Estrategia de Casa de Bolsa, la comisionista de bolsa del Grupo Aval, quien aseguró que un alza de este tipo sorprendería a los mercados y podría hacer que los inversionistas internacionales mantengan su capital en Colombia.
+"Si aumenta 200 pbs, es posible que no tenga la necesidad de intervenir el mercado cambiario ya que incentiva a que los inversionistas locales y extranjeros no saquen sus recursos del país y atrae a más inversionistas extranjeros. Si se cumple lo anterior, no habría necesidad de que la entidad desacumule parte de sus reservas internacionales, las cuales las vamos a continuar necesitando por un largo tiempo (recuerden que en 2023 se espera una recesión)", explicó Ballén en un hilo en su cuenta de Twitter.
+El analista agregó que "en noviembre no hay junta, por lo cual para evitar convocar una junta de emergencia en el caso de que suceda algo extraordinario, es mejor por precaución anticipar un aumento de tasas en la junta de octubre".
+Otro de los beneficios que ve Ballén en aumentar las tasas en 200 básicos hasta 12% es que continuaría contribuyendo a controlar las expectativas de inflación. "Si se cumple lo que mencioné antes, el dólar modera su subida en el corto plazo, pero en el largo plazo el dólar continuaría elevado por la prohibición de la exploración de petróleo", dijo el analista de Casa de Bolsa.
+Recomendaciones del Ministerio de Hacienda
+
+El ministro de Hacienda, José Antonio Ocampo, que ocupa un lugar en la Junta Directiva del Emisor, descartó que se vaya a intervenir directamente la divisa a través de las herramientas que tiene el Banco de la República como es la venta de opciones put (opciones de venta de divisas al Banco) o call (opciones de compra de divisas al Banco) para el control de volatilidad de la tasa de cambio.
+"En la Junta del viernes volveremos a discutir ese tema, pero el análisis que hemos hecho y que yo comparto es que, por ejemplo, en una intervención similar en Chile, que fue masiva, no tuvo más efectos que dejar flotar la tasa. Los mercados a veces sobrereaccionan como en el caso colombiano", aseguró el ministro Ocampo.
+Según el jefe de la cartera económica, la disparada del dólar se debió a esa sobrerreacción de los mercados. "Hay unos especuladores que habían llevado esa tasa más allá de lo razonable. Yo celebro que los mercados se están volviendo racionales otra vez", dijo Ocampo.
+Pero en cambio, el MinHacienda sí le pidió a la junta del BanRepública discutir la liquidez de los mercados de futuros en su reunión de hoy. “Hay un tema que sí le he pedido al Banco que discutamos el viernes de los mercados de futuros, de qué tan líquidos o no están esos mercados de futuros”, dijo Ocampo.
+Durante la pandemia de covid-10, en 2020, el Emisor adoptó una serie de medidas extraordinarias de suministro de liquidez, como coberturas cambiarias por medio de subastas de venta de dólares a través de operaciones forward o “swaps”.
